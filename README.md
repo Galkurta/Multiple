@@ -17,13 +17,13 @@ You can quickly install Multiple Node using either `wget` or `curl`:
 Using wget:
 
 ```bash
-wget https://raw.githubusercontent.com/Galkurta/Multiple/main/multiple.sh && chmod +x multiple.sh && sudo ./multiple.sh
+wget https://github.com/Galkurta/Multiple/blob/main/multiple.sh && chmod +x multiple.sh && sudo ./multiple.sh
 ```
 
 Using curl:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Galkurta/Multiple/main/multiple.sh && chmod +x multiple.sh && sudo ./multiple.sh
+curl -fsSL https://github.com/Galkurta/Multiple/blob/main/multiple.sh && chmod +x multiple.sh && sudo ./multiple.sh
 ```
 
 ## Features
